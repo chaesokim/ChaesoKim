@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi ! My name is [Chaehyun](https://instagram.com/chae_so00/) 👋
+
+<p>
+  <a href="https://instagram.com/chae_so00">
+    <img alt="insta" src="https://img.shields.io/static/v1?label=insta&message=chaehyunkim&color=ff69b4">
+  </a>
+</p>
 
 <!--
 **chaesokim/ChaesoKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
