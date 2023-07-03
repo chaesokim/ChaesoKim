@@ -2,10 +2,10 @@
 
 <p>
   <a href="https://instagram.com/chae_so00">
-    <img alt="insta" src="https://img.shields.io/static/v1?label=insta&message=chaehyunkim&color=ff69b4">
+    <img alt="insta" src="https://img.shields.io/static/v1?label=insta&message=@chae_so00&color=ff69b4">
   </a>
   <a href="https://velog.io/@chaesofedev">
-    <img alt="velog" src="https://img.shields.io/static/v1?label=velog&message=chaehyunkim&color=yellow">
+    <img alt="velog" src="https://img.shields.io/static/v1?label=velog&message=@chaesofedev&color=yellow">
   </a>
 </p>
 
